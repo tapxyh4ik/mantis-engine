@@ -7,6 +7,7 @@
    ###### Current Godot version: 3.2.3 .
    ###### [Engine docs](https://github.com/tapxyh4ik/mantis-engine/blob/main/DOCS.md)
    ###### [Engine changelogs](https://github.com/tapxyh4ik/mantis-engine/blob/main/CHANGELOGS.md)
+   ###### [Download](https://github.com/tapxyh4ik/mantis-engine/releases)
 
 ## Already done:
 - [x] Main UI
