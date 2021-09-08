@@ -1,1 +1,0 @@
-# Mantis Engine docs.
