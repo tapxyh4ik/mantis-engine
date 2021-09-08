@@ -1,2 +1,2 @@
 # Mantis Engine documentation 
-Base - [Lua](https://www.lua.org/docs.html) 
+### Base lua documentation - [Lua Docs](https://www.lua.org/docs.html) 
