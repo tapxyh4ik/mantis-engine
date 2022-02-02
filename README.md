@@ -1,1 +1,4 @@
-# Mantis Engine 1.0
+# Mantis Engine
+
+## 2D and 3D game engine.
+ 
